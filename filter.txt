@@ -1,0 +1,15 @@
+!block-tlds
+||top^
+||vip^
+||club^
+!unblock
+@@||kuyhaa.me^$important
+#block-google-ads
+||googlesyndication.com^
+||www.googleadservices.com^$important
+!blockjudol
+/(toto|togel|slot(?:s|machine)|gacor|4d|rtp|slot|judi|judol)/
+!blockphising
+/(vip|vvip)/
+@@||(vipgds/
+/(gamble|gambling|casino|poker|roulette|slot(?:s|machine)|baccarat|blackjack|lottery|sweepstake|bingo|jackpot|sportsbook|betting|bookie|parlay|propbet)/
