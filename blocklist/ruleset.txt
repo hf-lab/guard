@@ -97,3 +97,5 @@
 !IDN Homograph Attacks Protection
 /([\p{Lo}\p{S}]+)/
 /^xn--.*/
+!Block LGBTQ+
+/(lgbt|gay|lesbian|bisexual|transgender|queer|pansexual|nonbinary|genderqueer|genderfluid|intersex|asexual|agender|bigender|rainbow|dragqueen|dragking|tranny|transvestite|genderdysphoria|genderidentity|genderexpression|gendertransition|misgender|deadnaming|comingout|genderfuck|homophobia|transphobia)/
