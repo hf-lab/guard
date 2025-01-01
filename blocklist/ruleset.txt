@@ -15,6 +15,7 @@
 !Block Phising
 ||alghoba.my.id^
 ||infolnk.site^
+||saltcrafty.com^$important
 !unblock-false-positive
 @@||cloudflarestatus.com^$important
 @@||kuyhaa.me^$important
@@ -26,10 +27,18 @@
 @@||telemetry.betterstack.com^$important
 @@||ryzendesu.vip^$important
 @@||base64decode.org^$important
+@@||tv4.idlix.asia^$important
+@@||doh.pub^$important
+@@||embed.su^$important
+@@||slotslights.net^$important
+@@||wpclub.pro^$important
+@@||awavenue.top^$important
+@@||equinix.asia^$important
 !Block Merk Judol
 /(pg88|juara8|ez388|ez338|hrdsultan|saosbotol|jokersb|nusa gg|nikmatsurga|bandarliga|vvip)/
 !Block Keyword Judol
 /(toto|togel|gacor|4d|rtp|slot|judi|judol|lotre|zeus|hoki|scatter|hoki|sloot|cuan|-pola|pola-|bosky|bosku|makswin|maxwin|maxxwin|betasik|mania|prowin)/
+/(fbsfx|yvip|ovip|betts|bersinarkapt|jagoanspin|liga-|-liga|dewadora|bonekahati|jali.|jaga.|smpo|jepe)/
 /(gamble|gambling|casino|poker|roulette|slot(?:s|machine)|baccarat|blackjack|lottery|sweepstake|bingo|jackpot|sportsbook|betting|bookie|parlay|propbet)/
 /(bet\d{1})/
 /(win\d{2})/
@@ -88,6 +97,47 @@
 /(dewa\d{2})/
 /(nex\d{2})/
 /(ola\d{2})/
+/(kim\d{2})/
+/(kiblat\d{2})/
+/(cuy[a-z]+)/
+/(polaris\d{2})/
+/(istana\d{2})/
+/(cika\d{2})/
+/(gelora\d{2})/
+/(vip\d{2})/
+/(sakura\d{2})/
+/(wahana\d{2})/
+/(bos\d{2})/
+/(otaku\d{2})/
+/(vertu\d{2})/
+/(klub\d{2})/
+/(mewah\d{2})/
+/(bomba\d{2})/
+/(fiesta\d{2})/
+/(jpto\d{2})/
+/(jutawan\d{2})/
+/(adinda\d{2})/
+/(kopi\d{2})/
+/(top\d{2})/
+/(saku\d{2})/
+/(pulau\d{2})/
+/(batosa\d{2})/
+/(fonix\d{2})/
+/(madu\d{2})/
+/(sumo\d{2})/
+/(pablo\d{2})/
+/(barcelona\d{2})/
+/(point\d)/
+/(mahjong\d{2})/
+/(molen\d{2})/
+/(bonus\d{2})/
+/(molen\d{2})/
+/(era\d{2})/
+/(plaza\d{2})/
+/(big\d{2})/
+/(juara\d{2})/
+/[a-zA-Z]nusa/
+/\b[-_]?(\d{1,3})bet[-_]?\b/
 !Block Number Domain
 /\d{5}\.com\b/
 /\d{5}\.net\b/
