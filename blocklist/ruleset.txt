@@ -1,8 +1,8 @@
 !block-tlds
-||top^
-||vip^
-||club^
-||pro^
+||.top^
+||.vip^
+||.club^
+||.pro^
 #block-ads
 ||googlesyndication.com^
 ||googleadservices.com^$important
