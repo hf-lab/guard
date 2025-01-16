@@ -13,9 +13,13 @@
 ||sehatdiab.today^$important
 ||analyticpro.online^
 !Block Phising
-||alghoba.my.id^
-||infolnk.site^
+||alghoba.my.id^$important
+||infolnk.site^$important
 ||saltcrafty.com^$important
+||trendy9.online^$important
+||zayp.my.id^$important
+||zirkal.xyz^$important
+||glamor9.online^$important
 !unblock-false-positive
 @@||cloudflarestatus.com^$important
 @@||kuyhaa.me^$important
@@ -34,11 +38,15 @@
 @@||wpclub.pro^$important
 @@||awavenue.top^$important
 @@||equinix.asia^$important
+@@||ujian.or.id^$important
+@@||spreadsheet.new^$important
+@@||cuanin.id^$important
+@@||library.gift^$important
 !Block Merk Judol
 /(pg88|juara8|ez388|ez338|hrdsultan|saosbotol|jokersb|nusa gg|nikmatsurga|bandarliga|vvip)/
 !Block Keyword Judol
 /(toto|togel|gacor|4d|rtp|slot|judi|judol|lotre|zeus|hoki|scatter|hoki|sloot|cuan|-pola|pola-|bosky|bosku|makswin|maxwin|maxxwin|betasik|mania|prowin)/
-/(fbsfx|yvip|ovip|betts|bersinarkapt|jagoanspin|liga-|-liga|dewadora|bonekahati|jali.|jaga.|smpo|jepe)/
+/(fbsfx|yvip|ovip|betts|bersinarkapt|jagoanspin|liga-|-liga|dewadora|bonekahati|jali.|jaga.|smpo|jepe|w3d3|wed3|w3de|pgsoft)/
 /(gamble|gambling|casino|poker|roulette|slot(?:s|machine)|baccarat|blackjack|lottery|sweepstake|bingo|jackpot|sportsbook|betting|bookie|parlay|propbet)/
 /(bet\d{1})/
 /(win\d{2})/
@@ -136,6 +144,46 @@
 /(plaza\d{2})/
 /(big\d{2})/
 /(juara\d{2})/
+/(factory\d{2})/
+/(octo\d{2})/
+/(okto\d{2})/
+/(voxy\d{2})/
+/(dewi\d{2})/
+/(tajir\d{2})/
+/(basah\d{2})/
+/(arta\d{2})/
+/(audy\d{2})/
+/(kpk\d{2})/
+/(tuyul\d{2})/
+/(dimensi\d{2})/
+/(kasta\d{2})/
+/(wd\d{2})/
+/(denyut\d{2})/
+/(konoha\d{2})/
+/(master\d{2})/
+/(viva\d{2})/
+/(prabu\d{2})/
+/(singa\d{2})/
+/(melati\d{2})/
+/(tenyom\d{2})/
+/(holiday\d{2})/
+/(botak\d{2})/
+/(hantam\d{2})/
+/(fork\d{2})/
+/(join\d{2})/
+/(kutai\d{2})/
+/(senior\d{2})/
+/(neo\d{2})/
+/(otw\d{2})/
+/(sks\d{2})/
+/(kong\d{2})/
+/(marco\d{2})/
+/(garuda\d{2})/
+/(bintang\d{2})/
+/(satu\d{2})/
+/(kita\d{2})/
+/(karbon\d{2})/
+/(pulau\d{2})/
 /[a-zA-Z]nusa/
 /\b[-_]?(\d{1,3})bet[-_]?\b/
 !Block Number Domain
