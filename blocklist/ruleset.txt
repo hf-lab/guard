@@ -48,7 +48,7 @@
 /(toto|togel|gacor|4d|rtp|slot|judi|judol|lotre|zeus|hoki|scatter|hoki|sloot|cuan|-pola|pola-|bosky|bosku|makswin|maxwin|maxxwin|betasik|mania|prowin)/
 /(fbsfx|yvip|ovip|betts|bersinarkapt|jagoanspin|liga-|-liga|dewadora|bonekahati|jali.|jaga.|smpo|jepe|w3d3|wed3|w3de|pgsoft)/
 /(gamble|gambling|casino|poker|roulette|slot(?:s|machine)|baccarat|blackjack|lottery|sweepstake|bingo|jackpot|sportsbook|betting|bookie|parlay|propbet)/
-/(5catt3r|skecer|rajawd|freebet|ligapl|h0ki|hok1|h0k1|p0k3r|b0la|spinmaster|sloki|bintangjp)/
+/(5catt3r|skecer|rajawd|freebet|ligapl|h0ki|hok1|h0k1|p0k3r|b0la|spinmaster|sloki|bintangjp|rolet|spinmaste|kangjitu)/
 /(bet\d{1})/
 /(win\d{2})/
 /(giga\d{2})/
@@ -210,6 +210,20 @@
 /(leo\d{2})/
 /(sensa\d{2})/
 /(bandar\d{2})/
+/(ikan\d{2})/
+/(gem\d{2})/
+/(naga\d{2})/
+/(asia\d{2})/
+/(king\d{2})/
+/(queen\d{2})/
+/(toko\d{2})/
+/(meme\d{2})/
+/(olx\d{2})/
+/(dunia\d{2})/
+/(inter\d{2})/
+/(petir\d{2})/
+/(max\d{2})/
+/(\d{2}pro)/
 /\b[-_]?(\d{1,3})bet[-_]?\b/
 !Block Number Domain
 /\d{5}\.com\b/
@@ -230,6 +244,7 @@
 @@||vidlink.pro^$important
 @@||bunkr.site^$important
 @@||bunkrr.su^$important
+@@||yarsi.ac.id^$important
 !scam/spam
 ||yodaft.com^$important
 ||zidaft.com^$important
